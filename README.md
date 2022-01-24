@@ -6,9 +6,9 @@ This repository is a collection of demos that have been built by Azure Community
 
 You may submit a new demo by opening an issue. Include the name of your demo, a link to a public Github repository, and an architecture diagram of the Azure services used.
 
-## Demos:
+# Demos:
 
-Azure Cognitive Services:
+## Azure Cognitive Services:
 
 | Link | Description | Image |
 | --- | --- | --- |
