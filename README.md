@@ -12,7 +12,7 @@ You may submit a new demo by opening an issue. Include the name of your demo, a 
 
 | Link | Created by | Description | Image |
 | --- | --- | --- | --- |
-| [APIM Terraform](https://github.com/hugogirard/apimTerraform) | [hugogirard](https://github.com/hugogirard) | This Github show a simple CI/CD using Terraform to publish your APIs in Azure API Management. | ![image](https://user-images.githubusercontent.com/35609369/150876210-4dc22a90-6c79-4ec1-ae93-4105df081f28.png) |
+| [APIM Terraform](https://github.com/hugogirard/apimTerraform) <br /> [hugogirard](https://github.com/hugogirard) | [hugogirard](https://github.com/hugogirard) | This Github show a simple CI/CD using Terraform to publish your APIs in Azure API Management. | ![image](https://user-images.githubusercontent.com/35609369/150876210-4dc22a90-6c79-4ec1-ae93-4105df081f28.png) |
 
 ## Azure Cognitive Services:
 
